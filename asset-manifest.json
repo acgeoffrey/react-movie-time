@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-movie-time/static/css/main.a85ecdba.css",
+    "main.js": "/react-movie-time/static/js/main.63437a26.js",
+    "index.html": "/react-movie-time/index.html",
+    "main.a85ecdba.css.map": "/react-movie-time/static/css/main.a85ecdba.css.map",
+    "main.63437a26.js.map": "/react-movie-time/static/js/main.63437a26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a85ecdba.css",
+    "static/js/main.63437a26.js"
+  ]
+}
